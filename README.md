@@ -25,7 +25,5 @@ Para executar no LeetCode:
 Execução no próprio leetcode, cada pasta do exercício contém um readme com mais explicações sobre o atual exercício.
 
 ## Apresentação
-apresentação no youtube: [https://youtu.be/rGaq8_MZOI4](https://youtu.be/rGaq8_MZOI4)
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rGaq8_MZOI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+apresentação no youtube:<br>
+[![Video](https://img.youtube.com/vi/rGaq8_MZOI4/0.jpg)](https://www.youtube.com/watch?v=rGaq8_MZOI4)
