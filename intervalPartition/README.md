@@ -1,5 +1,7 @@
 O particionamento de intervalo é um algoritmo de agendamento usado para atribuir tarefas a recursos de forma que os intervalos sobrepostos sejam minimizados. Aqui está um exemplo de implementação do algoritmo de particionamento de intervalo em Python:
 
+**Dificuldade: Médio**
+
 Entrada:
  [(1, 3), (2, 4), (5, 7), (6, 8), (9, 10)]
 
