@@ -25,3 +25,4 @@ Para executar no LeetCode:
 Execução no próprio leetcode, cada pasta do exercício contém um readme com mais explicações sobre o atual exercício.
 
 ## Apresentação
+apresentação no youtube: [https://youtu.be/rGaq8_MZOI4](https://youtu.be/rGaq8_MZOI4)
